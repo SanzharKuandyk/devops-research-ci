@@ -6,4 +6,3 @@ def summarize_csv(file_path):
 
 if __name__ == "__main__":
     print(summarize_csv("data.csv"))
-EOF
